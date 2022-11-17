@@ -1,19 +1,150 @@
+.banner-principal__row .banner-principal__img
+  width: 35%
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span, .tabs-a.color-acento-contenido .tabs-a__tab__selected, .tabs-a.color-acento-contenido .tabs-a__tab:focus, .pasos-a.color-acento-contenido .pasos-a__circle div
+  color: $white
+
 .banner-principal-decorativo
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 35%
+    left: -5%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 5%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(80px)
   100%
     transform: translateY(0px)
+  
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG06
+  background-image: url("../assets/curso/fondos/img06.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG06
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG03, .BGIMG06
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.cajon-b.color-primario:before
+  background-color: #CDF0E4
+  opacity: unset
+  bottom: 75%
+  right: 40%
+
+.cajon-b.color-acento-contenido:before
+  background-color: #F8DAC6
+  opacity: unset
+  bottom: 0%
+  top: 50%
+  right: 0%
+  left: 30%
+
+.cajon-b.color-acento-botones:before
+  background-color: #F8DAC6
+  opacity: unset
+
+.slyder__btn
+  background-color: #B0C0D2
+
+.BGR01
+  background-color: #DBEDEB
+
+.BGR02, .BGR04.acordion__activo
+  background-color: #E8E8E8
+
+.BGR03
+  background-color: $white
+
+.BGR03.acordion__activo, .BGR04
+  background-color: #F6F6F6
+
+.BG05
+  background-color: #EFEFEF
+
+.BGR06
+  background-color: #D5D2CD
+
+.tarjeta.color-primario
+  background-color: #D0E8E6
+
+.tarjeta.color-acento-contenido
+  background-color: #F9E1D2
+
+.BGR01, .BGR02, .BGR03, .BGR04, .BGIMG05, .BGR06
+  border-radius: 12px
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.slyder-a__bullets__item--active
+  background-color: #1B3F5E !important
+
+.slyder-a__bullets__item
+  background-color: #97B0BA
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.img-inv .bloque-texto-g__img
+  @media (min-width: $bp-min-lg)
+    left: 50%
+    right: 0%
+
+.img-inv .bloque-texto-g__texto
+   @media (min-width: $bp-min-lg)
+    right: 40%
+
+.cajon.color-acento-contenido
+  background-color: #F8DAC6
+
+.cajon.color-primario
+  background-color: #C4E2DF
+
+.tarjeta.color-primario *
+  color: $black
+
+.BGR06
+  height: 423px
+  @media (max-width: $bp-max-xl)
+    height: 471px
+  @media (max-width: $bp-max-lg)
+    height: 591px
+  @media (max-width: $bp-max-md)
+    height: 100%
