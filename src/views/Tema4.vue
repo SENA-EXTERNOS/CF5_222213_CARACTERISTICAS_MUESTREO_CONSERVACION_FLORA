@@ -62,6 +62,9 @@
       .col-lg-7.cajon.color-acento-contenido.p-4(data-aos="flip-up")
         p.mb-0 Estas estrategias se pueden agrupar de la siguiente manera:
 
+    .h4 Agrupación de estrategias de conservación 
+    p Existen diferentes categorías y actores que intervienen en los procesos y estrategias de conservación, veamos:
+
     .row.justify-content-center.mb-5
       .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-right")
         figure.mb-4
@@ -127,7 +130,7 @@
         ul.lista-ul--color
           li
             <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
-            | SueloPáramos
+            | Páramos
           li
             <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
             | Humedales

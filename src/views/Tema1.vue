@@ -43,7 +43,7 @@
           .col-lg-7(data-aos="fade-left")
             p.mb-0 Es importante anotar que las plantas briofitas están representadas por tres líneas evolutivas en las que se encuentran los musgos, las hepáticas y los antoceros. Están divididas en 9 000 especies de musgos, 7 500 de hepáticas y 250 de antoceros (Morales et al, 2017). Su importancia ecológica radica en ser recolectoras de agua e indicadoras de pH, y su abundancia en los bosques es imprescindible para prevenir la erosión y generar estabilidad de terrenos inclinados. Se encuentran disponibles en todo el planeta, pero de manera particular se hallan en los trópicos formando tapetes en el suelo. Están asociadas a zonas húmedas por lo que es común encontrarlas en cascadas, zonas de salpicadura, árboles y bordes de los arroyos.
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -120,7 +120,7 @@
     separador
     .BGIMG03.px-md-5.px-4.mb-4
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 1.3 temas y valoración del recurso estético
+        h2 1.3 Ecosistemas y valoración del recurso estético
       
       p Los ecosistemas en los que se encuentra gran cantidad de árboles son comúnmente denominados como bosques. Veamos algunas características:
 

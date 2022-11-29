@@ -276,7 +276,8 @@ export default {
     {
       referencia:
         'Morales et al. (2017). <em>Briófitos: un mundo en miniatura</em>. Infoflora.',
-      link: 'http',
+      link:
+        'https://www.unimagdalena.edu.co/Content/Public/Docs/Entrada_Facultad3/adjunto_1029-20181004104040_495.pdf',
     },
     {
       referencia:

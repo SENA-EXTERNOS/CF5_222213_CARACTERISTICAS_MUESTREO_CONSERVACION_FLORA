@@ -63,7 +63,8 @@
             img(src="@/assets/curso/tema3/img05.svg")
           .col-lg-7
             p.mb-0 Se utiliza con mayor interés en evaluar la estructura y composición florística de un tipo particular de bosque ubicando una parcela de 20 x 5 m, subdividida en 10 subparcelas de 10 x 10 m y muestreando todas aquellas especies con diámetro mayor a 2.5 cm. Este parámetro puede variar de acuerdo con la perturbación que presente el bosque y si se tienen que escoger valores de diámetro inferiores.
-
+    
+    p.mb-5 Según lo anterior, en los siguientes gráficos se explica paso a paso el método Whittaker, que es de gran importancia en todo lo relacionado con los inventarios florísticos.
     .h4 Método Whittaker
     p.mb-5 Inicialmente se trataba de un método nidificado en donde era posible realizar mediciones de la diversidad de especies y comparar con otras de distinta ubicación. Consistía en la instalación de subparcelas de 1 m2, 10 m2 y 100 m2 dentro de la parcela de 1 000 m2; este método presentó varias inconsistencias estadísticas y debió ser modificado. Quedó así:
 
@@ -115,6 +116,7 @@
 
       p.mb-5 Ya que los inventarios florísticos son importantes para conocer el estado de conservación de un ecosistema, las especies que están en estado de amenaza y para apoyar la reincorporación y aumento de las especies vegetales dentro del mismo, la participación de la comunidad es primordial para su desarrollo, pues es ella quien inicialmente provee la información necesaria de la zona de estudio, tal como los nombres comunes de las plantas que serán objeto de estudio. La comunidad también se verá beneficiada por los resultados del estudio y los datos relevantes como el estado de conservación para la toma de acciones sostenibles en dicho ecosistema.
       .h4 Muestreos participativos
+      p Es en este tipo de estudios donde el concepto de etnobotánica toma sentido. Una manera sencilla de definirla es como la disciplina encargada del estudio de la relación recíproca de una comunidad con el mundo natural.
 
     .row.justify-content-center.mb-4
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -279,7 +281,7 @@
             img(src='@/assets/curso/tema3/img32.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido.p-4
             .h4.ms-5.mt-4 Protectores
-            p.ms-5 rotectores para todo el cuerpo como botas, guantes, entre otros.
+            p.ms-5 Protectores para todo el cuerpo como botas, guantes, entre otros.
         .tarjeta-avatar-b.mb-4(data-aos="fade-right")
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/img33.svg' alt='AvatarTop')
