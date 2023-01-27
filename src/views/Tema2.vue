@@ -24,25 +24,19 @@
           p.mb-0 La expresión “tala ilegal” ha sido utilizada durante mucho tiempo para hacer referencia al corte de árboles. No ha sido definida técnicamente ni se tiene evidencia de una descripción en el derecho internacional; no obstante, la tala ilegal por lo general se refiere a actividades como la tala de especies de árboles protegidas o amenazadas; tala de árboles en áreas protegidas como parques naturales o áreas de conservación; tala excesiva; tala sin permisos o con permisos falsos; obtención ilegal de permisos de tala; no pago de tasas y aranceles forestales; tala que afecta ecosistemas forestales con daño a los árboles por actividades como el descortezamiento y la quema. Esto último porque la mayoría de los países permiten la remoción de árboles dañados con el fin de evitar incendios y otros peligros asociados a los cambios observables en las cortezas de los árboles que terminarían perjudicando a comunidades indígenas y personas cuyas labores se encuentran condicionadas por la prevalencia de la flora en una zona determinada.
 
     .BGIMG06.px-md-5.px-4
-      separador
-      #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.1 Cambio climático
+      h4(data-aos="fade-right") Cambio climático
 
       p Las afectaciones drásticas generadas por el calentamiento global han sido evidenciables en casi todas las actividades humanas con el aumento de desastres naturales, sequías, subidas del nivel del mar y pérdida de la biodiversidad. En lo que se refiere a la vegetación, esta se ha visto afectada en especial por la frecuencia de lluvias e inundaciones que causan efectos de escorrentía y por ende un barrido de nutrientes importantes para el suelo, lo que a su vez genera la disminución de hábitats, de biodiversidad y termina favoreciendo la reproducción de plagas que afectan sobre todo los cultivos.
     
-      separador
-      #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.2 Tráfico ilegal
+      h4(data-aos="fade-right") Tráfico ilegal
     
-      p El tráfico ilegal es un término asociado a cualquier acción que atente contra la naturaleza y su equilibrio. 
+      p El tráfico ilegal es un término asociado a cualquier acción que atente contra la naturaleza y su equilibrio: 
 
     .row.mb-5(data-aos="zoom-in")
       SlyderC(:datos="datosSlyder")
 
     .BGIMG06.px-md-5.px-4
-      separador
-      #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.3 Marco normativo
+      h4(data-aos="fade-right") Marco normativo
       
       p.mb-5 En Colombia la expedición de leyes y decretos en pro de preservar el medio ambiente, y en especial la flora, se han venido dando desde el año 1977. En dichas leyes se contemplan todas aquellas acciones pertinentes a la protección de la flora y los productos forestales en el país, el decomiso de productos de la flora silvestre, supervisión de entrada y salida de material vegetal al país, funciones de control y vigilancia para la defensa de la flora, reglamentación de centros de apoyo técnico como los jardines botánicos, obligaciones, prohibiciones y deberes con la flora silvestre del país.
       .h4 Marco normativo

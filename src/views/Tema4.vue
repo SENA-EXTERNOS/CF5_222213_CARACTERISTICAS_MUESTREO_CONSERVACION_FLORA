@@ -196,6 +196,10 @@
             <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
             | Copropiedad
 
+
+    .row.justify-content-center.mb-5
+      .col-lg-7.cajon.color-acento-contenido.p-4(data-aos="flip-up")
+        p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros. 
 </template>
 
 <script>

@@ -11,9 +11,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    separador
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.1 Muestreos técnicos
+    h4(data-aos="fade-right") Muestreos técnicos
     
     .BGIMG04.p-4.mb-4
       .row.justify-content-center.align-items-center
@@ -110,13 +108,11 @@
         img(src="@/assets/curso/tema3/img11.jpg")
 
     .BGIMG06.px-md-5.px-4
-      separador
-      #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 3.2 Muestreos participativos
+      h4(data-aos="fade-right") Muestreos participativos
 
-      p.mb-5 Ya que los inventarios florísticos son importantes para conocer el estado de conservación de un ecosistema, las especies que están en estado de amenaza y para apoyar la reincorporación y aumento de las especies vegetales dentro del mismo, la participación de la comunidad es primordial para su desarrollo, pues es ella quien inicialmente provee la información necesaria de la zona de estudio, tal como los nombres comunes de las plantas que serán objeto de estudio. La comunidad también se verá beneficiada por los resultados del estudio y los datos relevantes como el estado de conservación para la toma de acciones sostenibles en dicho ecosistema.
+      p.mb-5 Los inventarios florísticos, son importantes para conocer el estado de conservación de un ecosistema, las especies que se encuentran en estado de amenaza y para apoyar la reincorporación y aumento de las especies vegetales dentro del mismo, la participación de la comunidad es primordial para su desarrollo, pues es ella quien, inicialmente, provee la información necesaria de la zona de estudio, tal como los nombres comunes de las plantas que serán objeto de estudio. La comunidad también se verá beneficiada por los resultados del estudio y los datos relevantes como el estado de conservación para la toma de acciones sostenibles en dicho ecosistema.
       .h4 Muestreos participativos
-      p Es en este tipo de estudios donde el concepto de etnobotánica toma sentido. Una manera sencilla de definirla es como la disciplina encargada del estudio de la relación recíproca de una comunidad con el mundo natural.
+      p Es en este tipo de estudios, donde el concepto de etnobotánica toma sentido. Una manera sencilla de definirla es como la disciplina encargada del estudio de la relación recíproca de una comunidad, con el mundo natural:
 
     .row.justify-content-center.mb-4
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -130,9 +126,7 @@
         .h4 Desarrollo de estudios
         p.mb-0 En las últimas décadas la investigación etnobotánica ha mostrado un creciente interés por ampliar los conocimientos de las sociedades nativas y la protección contra la degradación de los hábitats naturales, por ello se realiza teniendo en cuenta aspectos relevantes de la comunidad; estos aspectos son evidenciados en entrevistas semiestructuradas a las comunidades y la aplicación de encuestas previas a la realización del trabajo de campo que busca conocer la importancia que tienen las plantas de ese ecosistema para los pobladores y los usos que estos les dan. La información recogida se consolida como valiosa para el desarrollo de estudios florísticos. 
 
-    separador
-    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.3 Herramientas y equipos
+    h4(data-aos="fade-right") Herramientas y equipos
     
     p.mb-5 Para llevar a cabo un inventario florístico se hace necesaria la utilización de los siguientes materiales: 
 
@@ -217,11 +211,9 @@
             .h4.mb-0.ms-5.mt-2 Etanol al 70 %
       .col-lg-5.col-md-6
 
-    separador
-    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.4 Normativa
+    h4(data-aos="fade-right") Normativa
     
-    p La recolección de especímenes consiste en la extracción temporal o definitiva del medio natural. Esta extracción se desarrolla principalmente con fines de investigación científica no comercial.
+    p La recolección de especímenes consiste en la extracción temporal o definitiva del medio natural. Esta extracción se desarrolla, principalmente, con fines de investigación científica no comercial:
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-10.mb-4(data-aos="fade-right")
@@ -261,9 +253,7 @@
           p.text-white.mb-0 La obtención de los permisos estará sujeta a condiciones como la aprobación del Ministerio de Educación Nacional de programas académicos que se relacionen con actividades de recolección; tales programas deberán contar con diferentes campos de investigación asociados a las actividades de recolección y contar con grupos de investigación categorizados ante Colciencias; además deberán contar con una dependencia encargada de los programas de investigación científica y con un sistema de información de registro y seguimiento de proyectos de investigación.
 
 
-    separador
-    #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.5 Bioseguridad
+    h4(data-aos="fade-right") Bioseguridad
     
     p Los investigadores que se encuentren realizando actividades de campo deberán contar con los debidos elementos de protección personal para evitar los accidentes que se puedan presentar durante la realización de inventarios florísticos. Accidentes que puedan ser caídas, torceduras, picaduras de insectos o cualquier otro percance. Entre los elementos de protección se encuentran:
 
@@ -321,9 +311,7 @@
             | Es fundamental contar con una libreta de campo a fin de llevar una secuencia de números de colección y siguiendo las secuencias planteadas con antelación. No se deben crear secuencias nuevas en la descripción detallada del espécimen.
 
     .BGIMG06.px-md-5.px-4
-      separador
-      #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 3.6 Registros
+      h4(data-aos="fade-right") Registros
       
       p Para los inventarios florísticos se hace necesaria la información lo más detallada posible del material vegetal colectado en una zona específica, es por esta razón que debe contener información relevante de la planta y de la zona en la cual fue colectada; así se tendrá un registro completo, también con la información necesaria para la etiqueta de colección de herbario. Para el material vegetal colectado se deberá tener la siguiente información:
       .row.justify-content-center.mb-4

@@ -12,7 +12,8 @@
     .BGIMG01.p-4.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center
         .col-lg-7.order-lg-1.order-2
-          p.text-white.mb-0 Estimado aprendiz: sea bienvenido a este espacio de conocimiento enfocado en la flora como parte importante de la biodiversidad de nuestros ecosistemas; se abordarán temas relacionados con muestreos y métodos de clasificación, influencia del cambio climático, tráfico ilegal, además de algunos aspectos legales. Se hablará también de la importancia de generar planes de acción orientados a la identificación y recuperación de las especies nativas y se hará énfasis en los aspectos relevantes para su conservación, como los inventarios florísticos y las buenas prácticas de restauración de las comunidades vegetales. A continuación encontrará un video con una aproximación a los temas que se desarrollarán en este componente formativo. Lo invitamos a prestar mucha atención.
+          p.text-white Apreciado aprendiz, bienvenido a este componente formativo, donde se abordará la flora como parte importante de la biodiversidad de nuestros ecosistemas; se estudiarán temas relacionados con muestreos y métodos de clasificación, influencia del cambio climático, tráfico ilegal, además de algunos aspectos legales. Se hablará también de la importancia de generar planes de acción orientados a la identificación y recuperación de las especies nativas y se hará énfasis en los aspectos relevantes para su conservación, como los inventarios florísticos y las buenas prácticas de restauración de las comunidades vegetales.
+          p.text-white.mb-0 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
           img(src="@/assets/curso/intro/img01.svg")
     

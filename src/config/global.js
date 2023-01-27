@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Características, muestreo y conservación de la flora',
     descripcionCurso:
-      'La flora silvestre, además de proveer servicios ecosistémicos y paisajísticos, se constituye como indicador de estado y conservación de un ecosistema; dicha información se obtiene a través de los inventarios florísticos que brindan la información necesaria para conocer no solo este aspecto, sino para profundizar en la diversidad vegetal presente y la necesidad de incorporar nuevas especies en un ecosistema.',
+      'La flora silvestre, se constituye como indicador de estado y conservación de un ecosistema; esta información se obtiene a través de los inventarios florísticos que brindan la información necesaria para conocer, no solo este aspecto, sino para profundizar en la diversidad vegetal presente y la necesidad de incorporar nuevas especies en un ecosistema.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -35,26 +35,6 @@ export default {
         numero: '1',
         titulo: 'Flora silvestre',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Taxonomía vegetal y niveles de organización ',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Oferta y biodiversidad florística',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Ecosistemas y valoración del recurso estético',
-            hash: 't_1_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -62,26 +42,6 @@ export default {
         numero: '2',
         titulo: 'Afectaciones y riesgos de la flora',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Cambio climático',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Tráfico ilegal',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Marco normativo',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -89,50 +49,12 @@ export default {
         numero: '3',
         titulo: 'Muestreo e inventario florísticos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Muestreos técnicos',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Muestreos participativos',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Herramientas y equipos',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Normativa',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Bioseguridad',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Registros',
-            hash: 't_2_6',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Manejo, conservación y restauración ',
+        titulo: 'Manejo, conservación y restauración',
         desarrolloContenidos: true,
       },
     ],
@@ -180,29 +102,29 @@ export default {
     {
       tema: 'Afectaciones y riesgos de la flora',
       referencia:
-        'Godoy, M.E y Amen, B.E (2018): Incidencia del calentamiento global en la flora y fauna del Ecuador, Revista Delos (Desarrollo Local Sostenible) n.31 (febrero 2018).',
+        'Godoy, M. E. y Amen, B. E. (2018). <i>Incidencia del calentamiento global en la flora y fauna del Ecuador. Revista Delos (Desarrollo Local Sostenible)</i>, (31).',
       tipo: 'Artículo',
       link: 'https://www.eumed.net/rev/delos/31/Maria-Godoy-calentamiento.html',
     },
     {
-      tema: 'Diversidad florística',
+      tema: 'Afectaciones y riesgos de la flora',
       referencia:
-        'Aguirre M, Z (2013): Guía de métodos para medir la biodiversidad.',
+        'Aguirre M., Z. (2013). <i>Guía de métodos para medir la biodiversidad</i>. ',
       tipo: 'Guía',
       link:
         'https://corporacionbiologica.info/wp-content/uploads/2021/04/guia-para-medi-de-la-biodi-.pdf',
     },
     {
-      tema: 'Métodos de muestreo',
+      tema: 'Muestreo e inventario florísticos',
       referencia:
-        'Ferro-Díaz, J. (2015). Manual revisado de métodos útiles para el muestreo y análisis de la vegetación. Ecovida Vol.5 No.1',
+        'Ferro-Díaz, J. (2015). <i>Manual revisado de métodos útiles para el muestreo y análisis de la vegetación. Ecovida</i>, 5(1).',
       tipo: 'Guía',
       link: 'https://revistaecovida.upr.edu.cu',
     },
     {
-      tema: 'Manejo, conservación y restauración de la flora',
+      tema: 'Manejo, conservación y restauración',
       referencia:
-        'MinAmbiente Colombia et al. (2019). Iniciativas de conservación en Colombia: reconociendo esfuerzos a nivel local, regional y nacional.',
+        'MinAmbiente Colombia, et al. (2019). <i>Iniciativas de conservación en Colombia: reconociendo esfuerzos a nivel local, regional y nacional.</i>',
       tipo: 'Proyecto ',
       link:
         'https://www.asocars.org/wp-content/uploads/2020/09/Iniciativas-conservacion-Colombia.pdf',

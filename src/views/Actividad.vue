@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Características, muestreo y conservación de la flora
-        p.mb-4 Estimado aprendiz: agradecemos el tiempo dedicado a la realización de este componente de formación. Ahora lo invitamos a reforzar los conocimientos adquiridos respondiendo falso o verdadero a las siguientes preguntas.
+        p.mb-4 Apreciado aprendiz, a continuación, encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

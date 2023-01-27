@@ -18,11 +18,9 @@
       .col-lg-10.cajon-b.color-primario.p-3(data-aos="fade-right")
         p.mb-0 La flora silvestre corresponde a la disponibilidad de material vegetal en un ecosistema donde se combinan factores bióticos y abióticos que dan lugar a la diversidad. La flora hace parte de los ecosistemas terrestres, es generada por distintos procesos de evolución como resultado de la interacción, principalmente con los animales y elementos del ambiente como la luz, la temperatura, la humedad y el suelo; de esta manera genera todas las condiciones favorables para aumentar la diversidad de las especies, sobre todo las vegetales. En este punto resulta importante anotar que la diversidad se expresa en número de especies por área; la flora silvestre puede ser cuantificada y ser un factor determinante en el estado de conservación de un ecosistema.
     
-    separador
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Taxonomía vegetal y niveles de organización
+    h4(data-aos="fade-right") Taxonomía vegetal y niveles de organización
     
-    p Para la determinación de aspectos relevantes como la diversidad de las plantas es necesario usar estrategias que posibiliten el conocimiento y agrupen las plantas según sus características. Esta estrategia se llama taxonomía, la cual se ha encargado de dividir las plantas en dos grandes grupos: briofitas y cormofitas.
+    p Para la determinación de aspectos relevantes como la diversidad de las plantas, es necesario utilizar estrategias que posibiliten el conocimiento y agrupen las plantas, según sus características. Esta estrategia se llama taxonomía, la cual se ha encargado de dividir las plantas en dos grandes grupos, briofitas y cormofitas.
 
     figure.mb-5(data-aos="zoom-in")
       img(src="@/assets/curso/tema1/img02.svg")
@@ -53,15 +51,15 @@
             p.mb-0 Por otro lado, las plantas cormofitas se dividen en dos grandes grupos. En primer lugar están los pteridofitos (pteris: una especie de helecho) o plantas vasculares sin semilla caracterizadas por un mayor contenido de nutrientes y porque ―a diferencia de los musgos, hepáticas y antoceros― se elevaron del suelo por tener un sistema vascular desarrollado; de esta clasificación se destacan los helechos y las colas de caballo. El segundo gran grupo es el de los espermatofitos (esperma: semilla, fito: planta) o plantas vasculares con semilla, el cual se subdivide en gimnospermas ―con tejidos vasculares y semillas que no dan frutos―; y angiospermas que, además de tener semillas, producen frutos y flores. La mayoría de plantas se agrupa en esta categoría, a la postre la más importante para los humanos dado que de aquí se derivan los alimentos.
 
     .h4 Plantas cormofitas
-    p De manera general, se pueden señalar las siguientes características en las diferentes especies de plantas que se clasifican dentro de la categoría de cormofitas.
+    p De manera general, se pueden señalar las siguientes características en las diferentes especies de plantas que se clasifican dentro de la categoría de cormofitas:
 
     .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-acento-contenido
-          .BGR01.p-4(titulo="Organismos vivos")
+          .BGR01.p-4(titulo="Organismos<br> vivos")
             .h4 Organismos vivos
             p.mb-0 Son aquellos adaptados a la vida sobre la tierra con todo lo que esta implica; con una raíz que les permite absorber el agua del suelo y sustentar sus procesos de vida.
-          .BGR01.p-4(titulo="Procesos fotosintéticos")
+          .BGR01.p-4(titulo="Procesos<br> fotosintéticos")
             .h4 Procesos fotosintéticos
             p.mb-0 Toman la energía necesaria de la luz solar y la transforman en energía química; para ello se diferencian en hojas que captan y transforman la luz solar y tallos que sostienen y distribuyen las hojas.
           .BGR01.p-4(titulo="Reproducción")
@@ -70,17 +68,15 @@
           .BGR01.p-4(titulo="Hábitat")
             .h4 Hábitat
             p.mb-0 Viven en un ambiente que no pueden modificar ya que son sésiles (unidas a una estructura) y con estructuras que las hacen inmóviles.
-          .BGR01.p-4(titulo="Ciclo de vida")
+          .BGR01.p-4(titulo="Ciclo de<br> vida")
             .h4 Ciclo de vida
             p.mb-0 Las hojas tienen un crecimiento continuo y vida limitada; a diferencia de otras estructuras de la planta como las raíces o el tallo que crecen de manera ilimitada durante toda su vida.
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img07.png")
 
-    separador
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Oferta y biodiversidad florística
+    h4(data-aos="fade-right") Oferta y biodiversidad florística
     
-    p Por contar con una gran riqueza de flora, Colombia es una de las pocas partes del mundo en donde la vegetación selvática cubre aún la mayor parte de su territorio. 
+    p Por contar con una gran riqueza de flora, Colombia es una de las pocas partes del mundo en donde la vegetación selvática cubre aún la mayor parte de su territorio; veamos:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -117,10 +113,7 @@
                 <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
                 | Formaciones acuáticas
 
-    separador
-    .BGIMG03.px-md-5.px-4.mb-4
-      #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 1.3 Ecosistemas y valoración del recurso estético
+    h4(data-aos="fade-right").pt-5 Ecosistemas y valoración del recurso estético
       
       p Los ecosistemas en los que se encuentra gran cantidad de árboles son comúnmente denominados como bosques. Veamos algunas características:
 
