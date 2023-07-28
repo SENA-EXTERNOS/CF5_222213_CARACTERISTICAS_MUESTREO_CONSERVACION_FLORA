@@ -158,7 +158,7 @@ export default {
         'ecosistemas acuáticos cuyas características los hacen áreas protegidas y sitios de conservación por sus características biológicas y ecológicas.',
     },
     {
-      termino: '<em>Key biodiversity are.as</em>',
+      termino: '<em>Key Biodiversity Areas</em>',
       significado: 'ecosistemas con altos índices de biodiversidad.',
     },
     {
