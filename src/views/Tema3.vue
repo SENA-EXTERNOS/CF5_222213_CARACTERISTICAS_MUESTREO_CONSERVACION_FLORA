@@ -31,7 +31,7 @@
         div(titulo="Parcelas")
           p.mb-0 Son cuadrados que se utilizan para definir el área de muestreo dentro de un sitio mucho más grande, el tamaño del cuadrado va a depender de las características de formación vegetal dentro del ecosistema. Las parcelas usualmente son utilizadas para el muestreo de hierbas, briofitas, musgos y líquenes.
         div(titulo="Transectos")
-          p.mb-0 Son utilizados para estudiar los cambios por los que ha pasado la vegetación y poseen un largo variable ―desde unos centímetros hasta kilómetros―. Dependiendo de la pendiente, las formaciones vegetales y los criterios que se tuvieron en cuenta al momento de diseñar la metodología, son comúnmente utilizados en el muestreo de árboles, arbustos y hierbas. La vegetación más alta se ve aquí más favorecida.
+          p.mb-0 Son utilizados para estudiar los cambios por los que ha pasado la vegetación y poseen un largo variable ―desde unos centímetros hasta kilómetros―. Dependiendo de la pendiente, las formaciones vegetales y los criterios que se tuvieron en cuenta al momento de diseñar la metodología son comúnmente utilizados en el muestreo de árboles, arbustos y hierbas. La vegetación más alta se ve aquí más favorecida.
         div(titulo="Muestreo sin parcelas")
           p.mb-0 Consiste en efectuar los muestreos sin trazar parcelas dentro del área de estudio. Por lo general, se llevan a cabo al menos cincuenta muestreos y teniendo en cuenta la medida del diámetro de los árboles usualmente utilizados para tal muestreo.
         div(titulo="Marcado y mapeo")
@@ -110,9 +110,9 @@
     .BGIMG06.px-md-5.px-4
       h4(data-aos="fade-right") Muestreos participativos
 
-      p.mb-5 Los inventarios florísticos, son importantes para conocer el estado de conservación de un ecosistema, las especies que se encuentran en estado de amenaza y para apoyar la reincorporación y aumento de las especies vegetales dentro del mismo, la participación de la comunidad es primordial para su desarrollo, pues es ella quien, inicialmente, provee la información necesaria de la zona de estudio, tal como los nombres comunes de las plantas que serán objeto de estudio. La comunidad también se verá beneficiada por los resultados del estudio y los datos relevantes como el estado de conservación para la toma de acciones sostenibles en dicho ecosistema.
-      .h4 Muestreos participativos
-      p Es en este tipo de estudios, donde el concepto de etnobotánica toma sentido. Una manera sencilla de definirla es como la disciplina encargada del estudio de la relación recíproca de una comunidad, con el mundo natural:
+      p Los inventarios florísticos, son importantes para conocer el estado de conservación de un ecosistema, las especies que se encuentran en estado de amenaza y para apoyar la reincorporación y aumento de las especies vegetales dentro del mismo, la participación de la comunidad es primordial para su desarrollo, pues es ella quien, inicialmente, provee la información necesaria de la zona de estudio, tal como los nombres comunes de las plantas que serán objeto de estudio. La comunidad también se verá beneficiada por los resultados del estudio y los datos relevantes como el estado de conservación para la toma de acciones sostenibles en dicho ecosistema.
+
+      p Es en este tipo de estudios donde el concepto de etnobotánica toma sentido. Una manera sencilla de definirla es como la disciplina encargada del estudio de la relación recíproca de una comunidad, con el mundo natural:
 
     .row.justify-content-center.mb-4
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
