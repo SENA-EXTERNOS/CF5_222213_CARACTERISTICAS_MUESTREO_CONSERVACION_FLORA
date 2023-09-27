@@ -38,8 +38,8 @@
     .BGIMG06.px-md-5.px-4
       h4(data-aos="fade-right") Marco normativo
       
-      p.mb-5 En Colombia la expedición de leyes y decretos en pro de preservar el medio ambiente, y en especial la flora, se han venido dando desde el año 1977. En dichas leyes se contemplan todas aquellas acciones pertinentes a la protección de la flora y los productos forestales en el país, el decomiso de productos de la flora silvestre, supervisión de entrada y salida de material vegetal al país, funciones de control y vigilancia para la defensa de la flora, reglamentación de centros de apoyo técnico como los jardines botánicos, obligaciones, prohibiciones y deberes con la flora silvestre del país.
-      .h4 Marco normativo
+      p En Colombia la expedición de leyes y decretos en pro de preservar el medio ambiente, y en especial la flora, se han venido dando desde el año 1977. En dichas leyes se contemplan todas aquellas acciones pertinentes a la protección de la flora y los productos forestales en el país, el decomiso de productos de la flora silvestre, supervisión de entrada y salida de material vegetal al país, funciones de control y vigilancia para la defensa de la flora, reglamentación de centros de apoyo técnico como los jardines botánicos, obligaciones, prohibiciones y deberes con la flora silvestre del país.
+
       p Las leyes, decretos y resoluciones (incluidos planes de acción y documentos CONPES) que tienen que ver con la flora y los aspectos relacionados con su protección y conservación son los siguientes:
 
     .row.justify-content-center.mb-4
