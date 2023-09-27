@@ -48,7 +48,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img06.jpg')})`}"
           )(data-aos="fade-right")
           .bloque-texto-g__texto.p-4(data-aos="fade-left")
-            p.mb-0 Por otro lado, las plantas cormofitas se dividen en dos grandes grupos. En primer lugar, están los pteridofitos (pteris: una especie de helecho) o plantas vasculares sin semilla caracterizadas por un mayor contenido de nutrientes y porque ―a diferencia de los musgos, hepáticas y antoceros― se elevaron del suelo por tener un sistema vascular desarrollado; de esta clasificación se destacan los helechos y las colas de caballo. El segundo gran grupo es el de los espermatofitos (esperma: semilla, fito: planta) o plantas vasculares con semilla, el cual se subdivide en gimnospermas ―con tejidos vasculares y semillas que no dan frutos―; y angiospermas que, además de tener semillas, producen frutos y flores. La mayoría de plantas se agrupa en esta categoría, a la postre la más importante para los humanos dado que de aquí se derivan los alimentos.
+            p.mb-0 Por otro lado, las plantas cormofitas se dividen en dos grandes grupos. En primer lugar, están los pteridofitos (pteris: una especie de helecho) o plantas vasculares sin semilla caracterizadas por un mayor contenido de nutrientes y porque ―a diferencia de los musgos, hepáticas y antoceros― se elevaron del suelo por tener un sistema vascular desarrollado; de esta clasificación se destacan los helechos y las colas de caballo. El segundo gran grupo es el de los espermatofitos (esperma: semilla, fito: planta) o plantas vasculares con semilla, el cual se subdivide en gimnospermas ―con tejidos vasculares y semillas que no dan frutos―; y angiospermas que, además de tener semillas, producen frutos y flores. La mayoría de las plantas se agrupa en esta categoría, a la postre la más importante para los humanos dado que de aquí se derivan los alimentos.
 
     .h4 Plantas cormofitas
     p De manera general, se pueden señalar las siguientes características en las diferentes especies de plantas que se clasifican dentro de la categoría de cormofitas:
@@ -76,7 +76,7 @@
 
     h4(data-aos="fade-right") Oferta y biodiversidad florística
     
-    p Por contar con una gran riqueza de flora, Colombia es una de las pocas partes del mundo en donde la vegetación selvática cubre aún la mayor parte de su territorio; veamos:
+    p Por contar con una gran riqueza de flora, Colombia es una de las pocas partes del mundo en donde la vegetación selvática cubre aún la mayor parte de su territorio, veamos:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -102,16 +102,16 @@
                 | Formaciones de especies arbustivas o suculentas (xerófitas o subxerófitas). 
               li
                 <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
-                | Manglares
+                | Manglares.
               li
                 <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
-                | Formaciones de playas y márgenes
+                | Formaciones de playas y márgenes.
               li
                 <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
-                | Prados
+                | Prados.
               li
                 <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
-                | Formaciones acuáticas
+                | Formaciones acuáticas.
 
     h4(data-aos="fade-right").pt-5 Ecosistemas y valoración del recurso estético
       
