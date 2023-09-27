@@ -190,6 +190,7 @@ export default {
     {
       referencia:
         'Decreto 1076 de 2015. <em>Decreto único reglamentario del sector ambiente y desarrollo sostenible 26 de mayo de 2015.</em>',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153',
     },
     {
       referencia: 'Normatividad flora.',
