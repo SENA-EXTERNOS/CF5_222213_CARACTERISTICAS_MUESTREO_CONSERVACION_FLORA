@@ -119,7 +119,7 @@ export default {
       referencia:
         'Ferro-Díaz, J. (2015). <i>Manual revisado de métodos útiles para el muestreo y análisis de la vegetación. Ecovida</i>, 5(1).',
       tipo: 'Guía',
-      link: 'https://revistaecovida.upr.edu.cu',
+      link: 'https://revistaecovida.upr.edu.cu/index.php/ecovida/article/download/72/137',
     },
     {
       tema: 'Manejo, conservación y restauración',
